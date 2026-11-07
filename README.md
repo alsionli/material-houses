@@ -1,3 +1,3 @@
 # Material Houses
 
-A tactile material-house gallery.
+A tactile gallery of houses made from tile, fabric, lace, acrylic, foil, bread, concrete and other materials.
